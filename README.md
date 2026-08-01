@@ -1,11 +1,11 @@
-##ANALYSE DES PERFORMANCES DU MARCHE BOURSIER BRVM
+## ANALYSE DES PERFORMANCES DU MARCHE BOURSIER BRVM
 
-1. INTRODUCTION
+1. # INTRODUCTION
 
 Dans le cadre de ce projet de synthèse en Master 2 Big Data, nous avons réalisé une analyse des performances du marché boursier de la BRVM (Bourse Régionale des Valeurs Mobilières). L’objectif est de concevoir un tableau de bord interactif sous Microsoft Power BI afin d’analyser les tendances du marché, les performances des actions et les principaux indicateurs financiers.
 Ce projet permet de transformer des données financières brutes en informations décisionnelles utiles à l’analyse économique et financière.
 
-2. Objectifs du projet
+2. # Objectifs du projet
 
 Les objectifs principaux sont :
 • Analyser les cours des actions par entreprise (symbole et nom)
